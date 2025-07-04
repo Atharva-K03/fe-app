@@ -7,8 +7,8 @@ export const API_ENDPOINTS = {
   // Authentication
   AUTH: {
     LOGIN: '/wastewise/login',
-    LOGOUT: '/auth/logout',
-    REFRESH: '/auth/refresh'
+    LOGOUT: '/wastewise/logout',
+    REFRESH: '/wastewise/refresh'
   },
   
   // Waste Collection Logs
